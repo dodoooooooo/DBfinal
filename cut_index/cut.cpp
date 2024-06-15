@@ -63,18 +63,18 @@ void splitFile(const string& inputFileName, const string& outputDir, int chunkSi
 }
 
 int main() {
-    string inputFileName = "/Users/dodo/CLionProjects/DBfinal/cut_index/uncut/course_id.txt";  // 輸入檔案名稱
-    string outputDir = "/Users/dodo/CLionProjects/DBfinal/cut_index/cut_/index_cid"; // 輸出目錄
+    string inputFileName = "../cut_index/uncut/course_id1.txt";  // 輸入檔案名稱
+    string outputDir = "../cut_index/cut_/index_cid"; // 輸出目錄
     int chunkSize = 2048;  // 每個檔案的大小限制 2KB
 
     splitFile(inputFileName, outputDir, chunkSize);
 
-    inputFileName = "/Users/dodo/CLionProjects/DBfinal/cut_index/uncut/student_id.txt";
-    outputDir = "/Users/dodo/CLionProjects/DBfinal/cut_index/cut_/index_sid"; // 輸出目錄
+    inputFileName = "../cut_index/uncut/student_id.txt";
+    outputDir = "../cut_index/cut_/index_sid"; // 輸出目錄
     splitFile(inputFileName, outputDir, chunkSize);
 
-    inputFileName = "/Users/dodo/CLionProjects/DBfinal/cut_index/uncut/course_name.txt";
-    outputDir = "/Users/dodo/CLionProjects/DBfinal/cut_index/cut_/index_cname"; // 輸出目錄
+    inputFileName = "../cut_index/uncut/course_name.txt";
+    outputDir = "../cut_index/cut_/index_cname"; // 輸出目錄
     splitFile(inputFileName, outputDir, chunkSize);
 
     return 0;
