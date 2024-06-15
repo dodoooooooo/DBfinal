@@ -1,0 +1,10 @@
+# ninja log v6
+6	737	1718441467258536488	CMakeFiles/DBfinal.dir/cut_index/do_cut/cut.cpp.o	74d2cc2541c6ee54
+14	219	1718444929837935323	CMakeFiles/DBfinal.dir/build_index/bst.cpp.o	d27317cab5d6085
+3	82	1718454813665555567	build.ninja	f26e86d295df7e3d
+6	645	1718447258668152026	CMakeFiles/DBfinal.dir/main.cpp.o	68b5046c40c87980
+645	707	1718447259306667066	DBfinal	5987d837e5f916e4
+14	794	1718444929837657792	CMakeFiles/DBfinal.dir/build_index/seq.cpp.o	51c8fde04eddafd3
+13	795	1718444929837036356	CMakeFiles/DBfinal.dir/cut_index/cut.cpp.o	9023eae5dcdba317
+3	78	1718454813665555567	build.ninja	f26e86d295df7e3d
+5	209	1718454813679374193	DBfinal	19846379127f595

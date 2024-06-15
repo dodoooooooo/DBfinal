@@ -1,0 +1,66 @@
+資料庫系統 ../data_big5/0086
+管理科學 ../data_big5/0086
+台灣文學 ../data_big5/0086
+微積分(二) ../data_big5/0086
+資料庫系統 ../data_big5/0086
+iOS APP程式設計 ../data_big5/0086
+生涯規劃 ../data_big5/0086
+計算機結構學 ../data_big5/0086
+Android Apps創意程式設計 ../data_big5/0086
+組織行為 ../data_big5/0086
+期貨與選擇權 ../data_big5/0086
+雲端計算 ../data_big5/0086
+現代散文 ../data_big5/0086
+系統程式 ../data_big5/0086
+組織行為 ../data_big5/0086
+計算機結構學 ../data_big5/0086
+計算機結構學 ../data_big5/0086
+會計學(二)實習 ../data_big5/0086
+職場英文 ../data_big5/0086
+探討在台日商管理之文化差異問題 ../data_big5/0086
+企業倫理與社會責任 ../data_big5/0086
+邏輯設計 ../data_big5/0086
+社會設計專題 ../data_big5/0086
+數位影像安全技術專題 ../data_big5/0086
+商事法 ../data_big5/0086
+普通物理-電、磁、光實驗 ../data_big5/0086
+佛家思想 ../data_big5/0086
+資料庫系統 ../data_big5/0086
+企業倫理與社會責任 ../data_big5/0086
+會計學(二)實習 ../data_big5/0086
+國際企業管理 ../data_big5/0086
+管理資訊系統 ../data_big5/0086
+普通物理-電、磁、光實驗 ../data_big5/0086
+線性代數 ../data_big5/0086
+系統程式 ../data_big5/0086
+服務學習專題 ../data_big5/0086
+程式設計(IV) ../data_big5/0086
+應用文 ../data_big5/0086
+雲端應用系統開發 ../data_big5/0086
+Android Apps創意程式設計 ../data_big5/0086
+統計學(二) ../data_big5/0086
+班級活動 ../data_big5/0086
+系統程式 ../data_big5/0086
+智慧定位-衛星導航 ../data_big5/0086
+邏輯設計實習 ../data_big5/0086
+智慧財產之保護與實務 ../data_big5/0086
+投資與理財 ../data_big5/0086
+機率論 ../data_big5/0086
+機率論 ../data_big5/0086
+Android Apps創意程式設計 ../data_big5/0086
+流通管理 ../data_big5/0086
+觀光美儀與國際禮儀 ../data_big5/0086
+性別平等與親密關係 ../data_big5/0086
+系統程式 ../data_big5/0086
+Android Apps創意程式設計 ../data_big5/0086
+管理資訊系統 ../data_big5/0086
+程式設計(III) ../data_big5/0086
+資料庫系統 ../data_big5/0086
+環境與公害 ../data_big5/0086
+資料庫系統 ../data_big5/0086
+統計學(二) ../data_big5/0086
+機率論 ../data_big5/0086
+文獻研討(二) ../data_big5/0086
+管理學 ../data_big5/0086
+計算機結構學 ../data_big5/0086
+機率論 ../data_big5/0086

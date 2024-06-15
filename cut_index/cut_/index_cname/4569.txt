@@ -1,0 +1,64 @@
+旅遊與多元學習	 ../data_big5/0299
+會計學(二) ../data_big5/0299
+邏輯設計實習 ../data_big5/0299
+計算機演算法 ../data_big5/0299
+批判思考 ../data_big5/0299
+當代文學閱讀與寫作 ../data_big5/0299
+大陸問題研究 ../data_big5/0299
+機率論 ../data_big5/0299
+國際關係 ../data_big5/0299
+資料庫系統 ../data_big5/0299
+資料庫系統 ../data_big5/0299
+地理資訊於APPS之應用 ../data_big5/0299
+企業倫理與社會責任 ../data_big5/0299
+台灣民間信仰 ../data_big5/0299
+微積分(二) ../data_big5/0299
+程式設計(IV) ../data_big5/0299
+Android Apps創意程式設計 ../data_big5/0299
+iOS APP程式設計 ../data_big5/0299
+超大型積體電路設計導論 ../data_big5/0299
+基礎影音製作 ../data_big5/0299
+計算機結構學 ../data_big5/0299
+計算機結構學 ../data_big5/0299
+全民國防教育軍事訓練(二) ../data_big5/0299
+鑽石寶石及翡翠玉石之賞析鑑定 ../data_big5/0299
+組織行為 ../data_big5/0299
+線性代數 ../data_big5/0299
+邏輯設計實習 ../data_big5/0299
+管理心理學 ../data_big5/0299
+國際企業管理 ../data_big5/0299
+國際企業管理 ../data_big5/0299
+系統分析與設計 ../data_big5/0299
+應用文 ../data_big5/0299
+人工智慧概論與實務 ../data_big5/0299
+Android Apps創意程式設計 ../data_big5/0299
+批判思考 ../data_big5/0299
+介紹台灣 ../data_big5/0299
+邏輯設計 ../data_big5/0299
+應用文 ../data_big5/0299
+會計學(二)實習 ../data_big5/0299
+智慧財產之保護與實務 ../data_big5/0299
+微積分(二) ../data_big5/0299
+Android Apps創意程式設計 ../data_big5/0299
+經濟學(二) ../data_big5/0299
+智慧財產之保護與實務 ../data_big5/0299
+電影與性別 ../data_big5/0299
+體育玩很大：創意運動課程設計 ../data_big5/0299
+邏輯設計實習 ../data_big5/0299
+系統程式 ../data_big5/0299
+應用文 ../data_big5/0299
+微積分(二) ../data_big5/0299
+微積分(二) ../data_big5/0299
+認識天然災害 ../data_big5/0299
+班級活動 ../data_big5/0299
+Android Apps創意程式設計 ../data_big5/0299
+作業系統(二) ../data_big5/0299
+旅遊與多元學習 ../data_big5/0299
+Android Apps創意程式設計 ../data_big5/0299
+行政領導與人脈經營 ../data_big5/0299
+國際企業管理 ../data_big5/0299
+計算機演算法 ../data_big5/0299
+作業管理 ../data_big5/0299
+管理資訊系統 ../data_big5/0299
+機率論 ../data_big5/0299
+程式設計(III) ../data_big5/0299
