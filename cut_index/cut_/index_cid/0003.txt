@@ -1,3 +1,9 @@
+1274 ../data_big5/0175
+1274 ../data_big5/0176
+1274 ../data_big5/0177
+1274 ../data_big5/0178
+1274 ../data_big5/0179
+1274 ../data_big5/0180
 1274 ../data_big5/0181
 1274 ../data_big5/0182
 1274 ../data_big5/0183
@@ -79,12 +85,3 @@
 1274 ../data_big5/0259
 1274 ../data_big5/0260
 1274 ../data_big5/0261
-1274 ../data_big5/0262
-1274 ../data_big5/0263
-1274 ../data_big5/0264
-1274 ../data_big5/0265
-1274 ../data_big5/0266
-1274 ../data_big5/0267
-1274 ../data_big5/0268
-1274 ../data_big5/0269
-1274 ../data_big5/0270

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/cut_index/bigOutput.txt" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/cut_index/cut_/index_cname/0001.txt" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/cut_index/cut_/index_cname/0002.txt" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/cut_index/cut_/index_cname/0003.txt" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/cut_index/cut_/index_cname/0004.txt" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/cut_index/cut_/index_cname/0005.txt" charset="Big5" />
     <file url="file://$PROJECT_DIR$/cut_index/uncut/course_name.txt" charset="Big5" />
   </component>
 </project>

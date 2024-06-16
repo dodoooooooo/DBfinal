@@ -1,3 +1,10 @@
+UNIX應用與實務 ../data_big5/0001
+文獻研討(二) ../data_big5/0001
+機率論 ../data_big5/0001
+普通物理-電、磁、光實驗 ../data_big5/0001
+現代散文 ../data_big5/0001
+消費者保護法 ../data_big5/0001
+智慧財產之保護與實務 ../data_big5/0001
 環境教育 ../data_big5/0001
 計算機演算法 ../data_big5/0001
 Android Apps創意程式設計 ../data_big5/0001
@@ -55,11 +62,3 @@ Android Apps創意程式設計 ../data_big5/0001
 邏輯設計實習 ../data_big5/0001
 會計學(二)實習 ../data_big5/0001
 行銷管理個案研究 ../data_big5/0001
-微積分(二) ../data_big5/0001
-商事法 ../data_big5/0001
-微積分(二)實習 ../data_big5/0001
-逢甲夜市雙語導覽設計(2) ../data_big5/0001
-莎士比亞與電影 ../data_big5/0001
-管理學 ../data_big5/0001
-鋼琴音樂萬花筒 ../data_big5/0001
-全民國防教育軍事訓練(二) ../data_big5/0001

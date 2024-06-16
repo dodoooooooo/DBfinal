@@ -118,6 +118,7 @@ int main() {
 
     ofstream output_file_course_id("../cut_index/uncut/course_id1.txt");
 
+
     if (!output_file_course_id.is_open()) {
         cout << "無法開啟輸出檔案\n";
         exit(1);

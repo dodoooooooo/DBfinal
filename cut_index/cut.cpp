@@ -65,7 +65,7 @@ void splitFile(const string& inputFileName, const string& outputDir, int chunkSi
 int main() {
     string inputFileName = "../cut_index/uncut/course_id1.txt";  // 輸入檔案名稱
     string outputDir = "../cut_index/cut_/index_cid"; // 輸出目錄
-    int chunkSize = 2048;  // 每個檔案的大小限制 2KB
+    int chunkSize = 2000;  // 每個檔案的大小限制 2KB
 
     splitFile(inputFileName, outputDir, chunkSize);
 
