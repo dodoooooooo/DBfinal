@@ -5,8 +5,8 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(DBfinal
         main.cpp
-        build_index/avl.cpp
-        #        cut_index/cut.cpp
+#        build_index/avl.cpp
+#        cut_index/cut.cpp
 #        build_index/seq.cpp
 #        build_index/bst.cpp
 )

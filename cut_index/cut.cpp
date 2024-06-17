@@ -69,7 +69,7 @@ int main() {
 
     splitFile(inputFileName, outputDir, chunkSize);
 
-    inputFileName = "../cut_index/uncut/student_id.txt";
+    inputFileName = "../cut_index/uncut/student_id1.txt";
     outputDir = "../cut_index/cut_/index_sid"; // 輸出目錄
     splitFile(inputFileName, outputDir, chunkSize);
 
