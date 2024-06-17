@@ -12,6 +12,20 @@
 
 using namespace std;
 
+// Custom hash function for strings
+struct HashString {
+    size_t operator()(const string& s) const {
+        return hash<string>{}(s);
+    }
+};
+
+// DataEntry struct representing each entry
+struct DataEntry {
+    string student_id;
+    string course_code;
+    string path_info;
+};
+
 // Function to split the input data
 void cut_input_data(string s, string arr[], int size) {
     size_t start = 0;
@@ -35,13 +49,6 @@ void remove_newlines(string& s) {
     s.erase(remove(s.begin(), s.end(), '\n'), s.end());
 }
 
-// DataEntry struct representing each entry
-struct DataEntry {
-    string student_id;
-    string course_code;
-    string path_info;
-};
-
 // Function to compare DataEntry by student_id and path_info
 bool compareByStudentIDAndPathInfo(const DataEntry &a, const DataEntry &b) {
     if (a.student_id == b.student_id) {
@@ -52,7 +59,7 @@ bool compareByStudentIDAndPathInfo(const DataEntry &a, const DataEntry &b) {
 
 int main() {
     ifstream reads_file;
-    unordered_map<string, vector<string>> student_map;  // Hash map to store student_id and associated path_info
+    unordered_map<string, vector<string>, HashString> student_map;  // Use custom hash function
 
     int data_counter = 1;
     string data_locate = "../data_big5/";
