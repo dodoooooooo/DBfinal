@@ -4,7 +4,8 @@
 #include <string>
 #include <vector>
 #include <sstream>
-#include <algorithm> // for std::remove, std::sort
+#include <unordered_map>
+#include <algorithm> // for std::remove
 
 #define READ_FILE_CUT_SIZE 3
 #define DATA_COUNTER 466
@@ -51,7 +52,7 @@ bool compareByStudentIDAndPathInfo(const DataEntry &a, const DataEntry &b) {
 
 int main() {
     ifstream reads_file;
-    vector<DataEntry> data_entries;
+    unordered_map<string, vector<string>> student_map;  // Hash map to store student_id and associated path_info
 
     int data_counter = 1;
     string data_locate = "../data_big5/";
@@ -78,14 +79,22 @@ int main() {
                 cut_input_data(read_file_string, datacut, READ_FILE_CUT_SIZE);
                 remove_newlines(datacut[2]);
 
-                DataEntry entry;
-                entry.student_id = datacut[0];
-                entry.course_code = datacut[1];
-                entry.path_info = data_locate_str;
-                data_entries.push_back(entry);
+                string student_id = datacut[0];
+                student_map[student_id].push_back(data_locate_str);
             }
 
             reads_file.close();
+        }
+    }
+
+    // Create a vector to hold all DataEntry objects for sorting
+    vector<DataEntry> data_entries;
+    for (const auto& pair : student_map) {
+        for (const auto& path_info : pair.second) {
+            DataEntry entry;
+            entry.student_id = pair.first;
+            entry.path_info = path_info;
+            data_entries.push_back(entry);
         }
     }
 

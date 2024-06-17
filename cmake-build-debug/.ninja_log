@@ -1,11 +1,12 @@
 # ninja log v6
-7	1540	1718601114501798166	CMakeFiles/DBfinal.dir/build_index/avl.cpp.o	23a9ad12606f2f79
-2	1601	1718601240524203904	CMakeFiles/DBfinal.dir/cut_index/cut.cpp.o	9023eae5dcdba317
-0	782	1718463167727573772	CMakeFiles/DBfinal.dir/build_index/seq.cpp.o	51c8fde04eddafd3
-1601	1702	1718601242123915654	DBfinal	809b84101fa2f043
-7	592	1718533629005926219	CMakeFiles/DBfinal.dir/main.cpp.o	68b5046c40c87980
-3	124	1718601308673096283	build.ninja	f26e86d295df7e3d
-1	2008	1718601140564397887	CMakeFiles/DBfinal.dir/build_index/bst.cpp.o	d27317cab5d6085
 6	737	1718441467258536488	CMakeFiles/DBfinal.dir/cut_index/do_cut/cut.cpp.o	74d2cc2541c6ee54
-4	133	1718601308673096283	build.ninja	f26e86d295df7e3d
+1	2008	1718601140564397887	CMakeFiles/DBfinal.dir/build_index/bst.cpp.o	d27317cab5d6085
+4	133	1718602067952186057	build.ninja	f26e86d295df7e3d
+7	592	1718533629005926219	CMakeFiles/DBfinal.dir/main.cpp.o	68b5046c40c87980
 9	255	1718601308706382817	DBfinal	5987d837e5f916e4
+0	782	1718463167727573772	CMakeFiles/DBfinal.dir/build_index/seq.cpp.o	51c8fde04eddafd3
+2	1601	1718601240524203904	CMakeFiles/DBfinal.dir/cut_index/cut.cpp.o	9023eae5dcdba317
+7	1540	1718601114501798166	CMakeFiles/DBfinal.dir/build_index/avl.cpp.o	23a9ad12606f2f79
+2	105	1718602067952186057	build.ninja	f26e86d295df7e3d
+8	2194	1718602067973328836	CMakeFiles/DBfinal.dir/build_index/avl.cpp.o	23a9ad12606f2f79
+2195	2376	1718602070160735677	DBfinal	bfa5869ff9770979
